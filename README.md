@@ -1,6 +1,6 @@
 # PHP Portfolio V1
  
-Old portfolio using PHP, JQuery, HTML5, SCSS & Bootstrap.
+Old portfolio made in 2016 using PHP, JQuery, HTML5, SCSS & Bootstrap.
 
 ### Requirements
 
