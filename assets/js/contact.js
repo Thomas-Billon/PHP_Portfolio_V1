@@ -20,12 +20,12 @@ $(document).ready(function() {
 		            type: $(this).attr('method'),
 		            data: array
 		        }).always(function(text) {
-	    			$('.contact-form-send').text(text);
-	    			console.log(text);
 	    			if (text == "Merci !") {
+						$('.contact-form-send').text(text);
 	    				$('.contact-form-send').css('background-color', 'lime');
 	    				submit = 1;
 	    			} else {
+						$('.contact-form-send').text('Erreur');
 	    				$('.contact-form-send').css('background-color', 'red');
 	    			}
 	  			});
