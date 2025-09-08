@@ -14,4 +14,4 @@ Old portfolio made in 2016 using PHP, JQuery, HTML5, SCSS & Bootstrap.
 
 This project is **proprietary software**.<br>
 You may use it for personal or internal business purposes, but you may **not copy, modify, distribute, or resell** it.<br>
-See [EULA](EULA.md) for details.
+See [EULA](EULA.md) for more details.
