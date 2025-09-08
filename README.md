@@ -1,10 +1,12 @@
 # Portfolio V1
 
 ![Project: Website](https://img.shields.io/badge/project-website-blue.svg)
+![Status: Legacy](https://img.shields.io/badge/status-legacy-lightgrey)
 [![License: Proprietary](https://img.shields.io/badge/license-proprietary-red.svg)](EULA.md)
  
-Old portfolio made in 2016 using PHP, JQuery, HTML5, SCSS & Bootstrap.
+Old portfolio made in 2016.
 
+**Warning:** Legacy project, it is no longer maintained. Use at your own risk.
 
 ## Requirements
 
